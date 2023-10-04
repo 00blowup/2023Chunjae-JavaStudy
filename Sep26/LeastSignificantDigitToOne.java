@@ -1,6 +1,6 @@
 package Sep26;
 
-public class Ch3Ex5 {
+public class LeastSignificantDigitToOne {
 
     // 주어진 정수의 일의 자리를 1로 바꾸는 문제
     public static void main(String[] args) {

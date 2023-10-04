@@ -1,6 +1,6 @@
 package Sep26;
 
-public class Ch3Ex4 {
+public class DropUnderHundred {
 
     // 정수 num의 값 중 백의 자리 아래를 버리는 문제
     public static void main(String[] args) {
