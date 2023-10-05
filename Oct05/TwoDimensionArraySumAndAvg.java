@@ -18,6 +18,6 @@ public class TwoDimensionArraySumAndAvg {
         }
 
         System.out.println("total=" + sum);
-        System.out.printf("average= %4.2f", (float)sum/20);
+        System.out.printf("average= %.2f", (float)sum/20);
     }
 }
