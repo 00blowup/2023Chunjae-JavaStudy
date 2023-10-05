@@ -7,7 +7,7 @@ public class SmallestNumberOfCoins {
 
     public static void main(String[] args) {
         // 가지고 있는 동전의 종류를 저장하는 배열
-        int[] coins = {500, 100, 50, 10};
+        int[] coins = {500, 100, 50, 10, 1};
 
         Scanner sc = new Scanner(System.in);
 
