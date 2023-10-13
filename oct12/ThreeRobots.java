@@ -1,4 +1,4 @@
-package Oct12;
+package oct12;
 
 public class ThreeRobots {
     // Robot 클래스를 상속하는 세 가지 로봇 클래스가 있을 때,

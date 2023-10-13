@@ -1,4 +1,4 @@
-package Oct11;
+package oct11;
 
 import java.util.HashMap;
 import java.util.Map;

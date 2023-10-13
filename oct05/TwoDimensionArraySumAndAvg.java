@@ -1,4 +1,4 @@
-package Oct05;
+package oct05;
 
 public class TwoDimensionArraySumAndAvg {
     // 2차원 배열에 담긴 모든 값의 총합과 평균을 구하여 출력하는 문제

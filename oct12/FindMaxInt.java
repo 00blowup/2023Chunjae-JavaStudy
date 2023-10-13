@@ -1,6 +1,5 @@
-package Oct12;
+package oct12;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class FindMaxInt {

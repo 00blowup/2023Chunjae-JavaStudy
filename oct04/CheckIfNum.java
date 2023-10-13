@@ -1,4 +1,4 @@
-package Oct04;
+package oct04;
 
 import java.util.Scanner;
 

@@ -1,4 +1,4 @@
-package Oct05;
+package oct05;
 
 public class CountNumbersInArray {
     // 1차원 정수 배열 안의 숫자를 세어, 각 숫자의 개수만큼 별을 찍는 문제 (숫자의 범위가 1~4로 한정된 경우)

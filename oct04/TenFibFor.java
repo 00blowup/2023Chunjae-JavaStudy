@@ -1,4 +1,4 @@
-package Oct04;
+package oct04;
 
 public class TenFibFor {
     // 피보나치 수열의 첫 10개 수를 for문을 사용해 출력하는 문제
