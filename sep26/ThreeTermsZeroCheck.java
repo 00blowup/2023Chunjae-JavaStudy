@@ -1,4 +1,4 @@
-package Sep26;
+package sep26;
 
 public class ThreeTermsZeroCheck {
     
